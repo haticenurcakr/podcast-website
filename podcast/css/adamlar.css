@@ -1,0 +1,37 @@
+
+.adamlar-a{
+    color: #FFF;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 45px; /* 93.75% */
+text-align: left;
+display: flex;
+justify-content: center;
+align-items: center;
+
+margin-top: 175px;
+}
+
+.adamlar-b{
+    color: #FFF;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: left;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.adamlar-c{
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

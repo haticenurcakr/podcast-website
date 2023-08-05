@@ -1,0 +1,54 @@
+
+.bottom-left {
+    position: absolute;
+    bottom: 130px;
+    left: 150px;
+    color: var(--light-base-color-white, #FFF);
+
+/* Heading/H1 Bold */
+
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 76.8px */
+letter-spacing: 0.192px;
+    
+  }
+
+
+  .bottom-leftt {
+    position: absolute;
+    bottom: 210px;
+    left: 150px;
+    color: var(--light-base-color-white, #FFF);
+
+/* Heading/H1 Bold */
+
+color: #FFF;
+
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+  }
+
+.bottom-lefttt {
+    position: absolute;
+    bottom: 310px;
+    left: 150px;
+    color: var(--light-base-color-white, #FFF);
+
+/* Heading/H1 Bold */
+
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 76.8px */
+letter-spacing: 0.192px;
+  }
+  
+.uzay-img{
+    width: 120px;
+height: 796px;
+flex-shrink: 0;
+}
